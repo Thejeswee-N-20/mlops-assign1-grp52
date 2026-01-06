@@ -16,5 +16,8 @@ mlflow.db
 .DS_Store
 Thumbs.db
 
-# VS Code settings (optional)
+# VS Code settings
 .vscode/
+
+# Trained model artifacts
+model/
